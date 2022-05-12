@@ -6,5 +6,6 @@ In my free time:
 - 🔭 I’m semi-actively working on `expycted`, an __expect-pattern__ Python testing library
 - 🌱 I generate and abandon baby projects at infamous rates
 - 📖 I’m learning otherworldy languages like Haskell, OCaml and Elixir
+- 🚴 I cycle, jog and lift
 
 ⚡ Fun fact: I enjoy writing docs
