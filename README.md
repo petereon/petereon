@@ -5,7 +5,7 @@ I am a software artisan currently involved with IBM, trying my hand at data engi
 In my free time:
 - 🔭 I’m semi-actively working on `expycted`, an __expect-pattern__ Python testing library
 - 🌱 I generate and abandon baby projects at infamous rates
-- 📖 I’m learning otherworldy languages like Haskell, OCaml and Elixir
+- ✨ I’m producing tiny conceptual projects
 - 🚴 I cycle, jog and lift
 
 ⚡ Fun fact: I enjoy writing docs
