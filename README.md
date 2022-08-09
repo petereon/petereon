@@ -1,4 +1,4 @@
-<img src="https://github-readme-stats.vercel.app/api?username=Petereon&show_icons=true&theme=github_dark&count_private=true&show_icons=true&custom_title=Petereon" height="200"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Petereon&theme=github_dark" height="200">
+<img src="https://github-readme-stats.vercel.app/api?username=Petereon&show_icons=true&theme=github_dark&count_private=true&show_icons=true&custom_title=Petereon" height="220"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Petereon&theme=github_dark" height="220">
 
 ### Hi there 👋
 
