@@ -1,4 +1,4 @@
-![stats](https://github-readme-stats.vercel.app/api?username=Petereon&show_icons=true&theme=github_dark&count_private=true&show_icons=true&custom_title=Petereon)
+<img src="https://github-readme-stats.vercel.app/api?username=Petereon&show_icons=true&theme=github_dark&count_private=true&show_icons=true&custom_title=Petereon" height="270"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Petereon&theme=github_dark" height="270">
 
 ### Hi there 👋
 
