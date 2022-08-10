@@ -2,7 +2,7 @@
 
 ### Hi there 👋
 
-I am a software developer currently involved with IBM, trying my hand at data engineering and DevOps professionaly. My languages of choice are Python, Clojure and Go respectively. I know and rarely use JavaScript, Java, PHP and Lua.
+I am a software developer currently involved with IBM, trying my hand at data engineering and DevOps professionaly. Python is my default fallback language but I have been exposed to all of the usual stuff[^1] and I also Lisp.
 
 In my free time:
 - 🔭 I am trying to get to grips with category theory and have fun with it
@@ -12,4 +12,4 @@ In my free time:
 
 ⚡ Fun fact: I enjoy writing docs
 
-
+[^1]: Java, JavaScript, Go, PHP, C
