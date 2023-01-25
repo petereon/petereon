@@ -1,7 +1,5 @@
 ### Hi there 👋
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=petereon&layout=compact)](https://github-readme-stats.vercel.app/api/top-langs/?username=petereon)
-
 *You have to have good reasons \[for a function\] not to be an isomorphism.*  
 — Bartosz Milewski
 
