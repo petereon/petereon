@@ -13,4 +13,4 @@ In my free time:
 ⚡ Fun fact: I enjoy writing docs
 
 [^1]: Java, JavaScript, Go, PHP, C
-[^2]: Haskell, Clojure, Lua, Hy
+[^2]: Haskell, Rust, Clojure, Lua, Hy
