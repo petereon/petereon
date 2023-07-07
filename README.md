@@ -1,16 +1,8 @@
 ### Hi there 👋
 
-*You have to have good reasons \[for a function\] not to be an isomorphism.*  
-— Bartosz Milewski
-
-I am a software developer currently involved with SentinelOne. Python is my default fallback language but I have been exposed to all of the usual stuff[^1] and some unusual stuff[^2]
-
-In my free time:
-- ✨ I’m producing tiny conceptual projects
-- 🚴 I cycle, jog and lift
-- 📚 I am learning about unreasonaby arcane programming concepts
-
-⚡ Fun fact: I enjoy writing docs
-
-[^1]: Java, JavaScript, Go, PHP, C
-[^2]: Haskell, Rust, Clojure, Lua, Hy
+Facts:
+- I am a software craftsman currently involved with SentinelOne as a Backend Developer
+- I admire Haskell
+- I have a love-hate relationship with Rust and Clojure
+- I run sometimes
+- Oof ouch JavaScript still exists
