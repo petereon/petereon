@@ -11,7 +11,7 @@ Facts about me:
 - ✅ I am a code-quality nut
 - 📚 I like writing documentation
 - ❤️ I love emoji
-- 🐕 I am being owned by Border Collie
+- 🐕 I am dog-owner
 
 Hobbies:
 - 🪵 Woodworking
