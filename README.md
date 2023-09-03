@@ -2,9 +2,7 @@
 
 Facts about me:
 
-- I am a:
-  - Software craftsman currently employed at SentinelOne as a Backend Developer
-  - Part IT Specialist and part economist by education
+- I am a Software craftsman currently employed at SentinelOne as a Backend Developer
 - I enjoy creating:
   - 🏃 Speedy Backend Code
   - 🛠️ Developer Tooling
