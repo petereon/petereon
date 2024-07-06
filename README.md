@@ -1,6 +1,6 @@
 # 👋
 
-Currier of functions, oxidizing influence, digital monad, cloud inhabitant, master of the arcane
+Oxidizing influence, cloud inhabitant, digital monad, currier of functions, master of the arcane
 
 I enjoy coding:
 - 🚀 Speedy Backend Code
