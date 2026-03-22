@@ -9,4 +9,4 @@ I enjoy coding:
 - 📡 Internet Connected Sensors
 - 🔀 Data Pipelines
 
-Hobbies: 🐕 🏃 📸 🪵 🏋️ 🥾 📚
+Hobbies: 📚 🐕 🏃 📸 🪵 🏋️ 🥾
